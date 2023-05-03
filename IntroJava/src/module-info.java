@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Dekan
+ *
+ */
+module IntroJava {
+}
